@@ -23,4 +23,4 @@ plugins:
 
 # Build settings
 markdown: kramdown
-remote_theme:   hoffli/saigon-jekyll-theme 
+remote_theme:   benbalter/retlab
