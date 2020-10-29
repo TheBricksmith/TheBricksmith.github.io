@@ -17,6 +17,10 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
+#set up plugins to pull remote jekyll themes
+plugins:
+  - jekyll-remote-theme
+
 # Build settings
 markdown: kramdown
 remote_theme:   hoffli/saigon-jekyll-theme 
